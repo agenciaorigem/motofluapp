@@ -1,0 +1,23 @@
+MOTORFLU — VERSÃO 0.6 — 28/10/2026
+
+PUBLICAR NO GITHUB PAGES
+1. Extraia o ZIP.
+2. Envie todos os arquivos e a pasta assets ao repositório, mantendo index.html na raiz.
+3. Substitua os arquivos antigos pelos novos. Preserve a estrutura das pastas.
+4. Abra o endereço HTTPS publicado pelo GitHub Pages. A página do repositório não é o aplicativo.
+5. Recarregue após a publicação para obter a atualização.
+
+NOVAS ÁREAS
+Calculadora, metas mensais individuais pelo gestor, agenda e reagendamento, check-in/out GPS, ofertas sem bônus, estoque A/B, tabelas por perfil de cliente, conversa com a gestão, acompanhamento de recompra, amostras, despesas com foto e consignação/acertos.
+
+ACESSOS DE DEMONSTRAÇÃO
+Gestor: admin / 123
+Representante: marcio / 123
+
+INSTALAÇÃO
+Use Instalar aplicativo ou Como instalar. No iPhone, siga as orientações do Safari. O navegador precisa reconhecer o aplicativo; abrir o ZIP ou index.html como arquivo local não permite instalação.
+
+LIMITES
+Versão demonstrativa: dados ficam neste navegador, sem sincronização entre aparelhos. Login de teste sem segurança para uso real. Não usar dados reais.
+WhatsApp/e-mail não são enviados automaticamente. Cosmos e cálculo de frete não estão integrados. As metas são configuradas individualmente pelo gestor.
+O GPS depende de HTTPS, permissão e sinal do aparelho. Fotos e registros dependem do espaço local do navegador.
